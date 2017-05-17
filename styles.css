@@ -3,9 +3,13 @@
 }
 
 .page-header{
-    margin-left: 2em;
+    margin-left: 2rem;
 }
 
 .butt{
-    margin: 2em;
+    margin: 2rem;
+}
+
+.imgThu>a{
+    text-align: right;
 }

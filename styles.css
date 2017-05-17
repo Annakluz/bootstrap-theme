@@ -1,3 +1,11 @@
 .navbar{
     background-color: black;
 }
+
+.page-header{
+    margin-left: 5em;
+}
+
+.butt{
+    margin: 5em;
+}
